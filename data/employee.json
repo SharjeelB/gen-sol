@@ -1,0 +1,304 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Emma Taylor",
+      "department": "IT",
+      "salary": 80000
+    },
+    {
+      "id": 2,
+      "name": "Alice John",
+      "department": "HR",
+      "salary": 65000
+    },
+    {
+      "id": 3,
+      "name": "Bob Williams",
+      "department": "Finance",
+      "salary": 75000
+    },
+    {
+      "id": 4,
+      "name": "Emma Brown",
+      "department": "Marketing",
+      "salary": 72000
+    },
+    {
+      "id": 5,
+      "name": "Michael Davis",
+      "department": "Sales",
+      "salary": 69000
+    },
+    {
+      "id": 6,
+      "name": "Sophia Wilson",
+      "department": "IT",
+      "salary": 91000
+    },
+    {
+      "id": 7,
+      "name": "James Miller",
+      "department": "Finance",
+      "salary": 83000
+    },
+    {
+      "id": 8,
+      "name": "Olivia Moore",
+      "department": "HR",
+      "salary": 67000
+    },
+    {
+      "id": 9,
+      "name": "William Taylor",
+      "department": "Operations",
+      "salary": 76000
+    },
+    {
+      "id": 10,
+      "name": "Ava Anderson",
+      "department": "Marketing",
+      "salary": 71000
+    },
+    {
+      "id": 11,
+      "name": "Benjamin Thomas",
+      "department": "IT",
+      "salary": 94000
+    },
+    {
+      "id": 12,
+      "name": "Charlotte Jackson",
+      "department": "Finance",
+      "salary": 81000
+    },
+    {
+      "id": 13,
+      "name": "Lucas White",
+      "department": "Sales",
+      "salary": 70000
+    },
+    {
+      "id": 14,
+      "name": "Amelia Harris",
+      "department": "HR",
+      "salary": 66000
+    },
+    {
+      "id": 15,
+      "name": "Henry Martin",
+      "department": "Operations",
+      "salary": 77000
+    },
+    {
+      "id": 16,
+      "name": "Mia Thompson",
+      "department": "IT",
+      "salary": 98000
+    },
+    {
+      "id": 17,
+      "name": "Alexander Garcia",
+      "department": "Finance",
+      "salary": 86000
+    },
+    {
+      "id": 18,
+      "name": "Harper Martinez",
+      "department": "Marketing",
+      "salary": 73000
+    },
+    {
+      "id": 19,
+      "name": "Daniel Robinson",
+      "department": "Sales",
+      "salary": 71000
+    },
+    {
+      "id": 20,
+      "name": "Evelyn Clark",
+      "department": "HR",
+      "salary": 68000
+    },
+    {
+      "id": 21,
+      "name": "Matthew Rodriguez",
+      "department": "IT",
+      "salary": 102000
+    },
+    {
+      "id": 22,
+      "name": "Abigail Lewis",
+      "department": "Finance",
+      "salary": 88000
+    },
+    {
+      "id": 23,
+      "name": "David Lee",
+      "department": "Operations",
+      "salary": 79000
+    },
+    {
+      "id": 24,
+      "name": "Emily Walker",
+      "department": "Marketing",
+      "salary": 74000
+    },
+    {
+      "id": 25,
+      "name": "Joseph Hall",
+      "department": "Sales",
+      "salary": 72000
+    },
+    {
+      "id": 26,
+      "name": "Ella Allen",
+      "department": "IT",
+      "salary": 96000
+    },
+    {
+      "id": 27,
+      "name": "Samuel Young",
+      "department": "Finance",
+      "salary": 85000
+    },
+    {
+      "id": 28,
+      "name": "Grace King",
+      "department": "HR",
+      "salary": 69000
+    },
+    {
+      "id": 29,
+      "name": "Andrew Wright",
+      "department": "Operations",
+      "salary": 80000
+    },
+    {
+      "id": 30,
+      "name": "Chloe Scott",
+      "department": "Marketing",
+      "salary": 76000
+    },
+    {
+      "id": 31,
+      "name": "Christopher Green",
+      "department": "IT",
+      "salary": 99000
+    },
+    {
+      "id": 32,
+      "name": "Victoria Baker",
+      "department": "Finance",
+      "salary": 87000
+    },
+    {
+      "id": 33,
+      "name": "Joshua Adams",
+      "department": "Sales",
+      "salary": 73000
+    },
+    {
+      "id": 34,
+      "name": "Scarlett Nelson",
+      "department": "HR",
+      "salary": 70000
+    },
+    {
+      "id": 35,
+      "name": "Nathan Carter",
+      "department": "Operations",
+      "salary": 81000
+    },
+    {
+      "id": 36,
+      "name": "Lily Mitchell",
+      "department": "Marketing",
+      "salary": 77000
+    },
+    {
+      "id": 37,
+      "name": "Ryan Perez",
+      "department": "IT",
+      "salary": 105000
+    },
+    {
+      "id": 38,
+      "name": "Zoey Roberts",
+      "department": "Finance",
+      "salary": 89000
+    },
+    {
+      "id": 39,
+      "name": "Jonathan Turner",
+      "department": "Sales",
+      "salary": 74000
+    },
+    {
+      "id": 40,
+      "name": "Hannah Phillips",
+      "department": "HR",
+      "salary": 71000
+    },
+    {
+      "id": 41,
+      "name": "Isaac Campbell",
+      "department": "IT",
+      "salary": 108000
+    },
+    {
+      "id": 42,
+      "name": "Aria Parker",
+      "department": "Marketing",
+      "salary": 78000
+    },
+    {
+      "id": 43,
+      "name": "Gabriel Evans",
+      "department": "Finance",
+      "salary": 90000
+    },
+    {
+      "id": 44,
+      "name": "Madison Edwards",
+      "department": "Operations",
+      "salary": 82000
+    },
+    {
+      "id": 45,
+      "name": "Anthony Collins",
+      "department": "Sales",
+      "salary": 75000
+    },
+    {
+      "id": 46,
+      "name": "Layla Stewart",
+      "department": "HR",
+      "salary": 72000
+    },
+    {
+      "id": 47,
+      "name": "Dylan Sanchez",
+      "department": "IT",
+      "salary": 110000
+    },
+    {
+      "id": 48,
+      "name": "Natalie Morris",
+      "department": "Finance",
+      "salary": 92000
+    },
+    {
+      "id": 49,
+      "name": "Jack Rogers",
+      "department": "Operations",
+      "salary": 83000
+    },
+    {
+      "id": 50,
+      "name": "Sofia Reed",
+      "department": "Marketing",
+      "salary": 79000
+    }
+  ]
+}
